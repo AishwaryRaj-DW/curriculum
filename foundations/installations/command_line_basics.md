@@ -117,7 +117,7 @@ Many of these resources assume you're using a Mac or Linux environment. If you d
     1. Create a new file called `test.txt`. *Hint: use the `touch` command.*
     1. Open your newly created file in VSCode, make some changes, save the file, and close it.
     1. Navigate back out of the `test` directory.
-    1. Delete the `test` directory.
+    1. Delete the `test` directory. *Hint: use the 'rmdir' command.*
 
     That's it---you're done with practice! If you commit to doing most tasks from the command line from here on out, these commands will become second nature to you. Moving and copying files is much more efficiently done through the command line, even if it feels like more of a hassle at this point.
 
@@ -137,4 +137,4 @@ The following questions are an opportunity to reflect on key topics in this less
 - [How do you create a new directory?](https://www.softcover.io/read/fc6c09de/unix_commands/basics#cid7)
 - [How do you create a new file?](https://swcarpentry.github.io/shell-novice/03-create.html#create-a-text-file)
 - [How do you destroy a directory or file?](https://www.softcover.io/read/fc6c09de/unix_commands/basics#cid9)
-- [How do you rename a directory or file?](https://www.softcover.io/read/fc6c09de/unix_commands/basics#cid10)
+- [How do you rename a directory or file?](https://www.ibm.com/docs/en/aix/7.1.0?topic=files-moving-renaming-mv-command)
